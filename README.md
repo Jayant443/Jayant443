@@ -14,3 +14,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayant443" alt="Top Langs" />
 </p>
+<p>
+  <img src="https://leetcode.card.workers.dev/Jayant_777?theme=default&font=baloo&extension=null" alt="LeetCode stats" />
+</p>
