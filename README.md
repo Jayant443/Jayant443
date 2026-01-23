@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">I love building stuff</h3>
 
-- 📫 How to reach me **jayanttodmal@gmail.com**
+-  How to reach me **jayanttodmal@gmail.com**
+-  I'm looking to collaborate on AI/ML projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
